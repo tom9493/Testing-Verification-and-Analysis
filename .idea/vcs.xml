@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/hw0-tooling-thomas-hart" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hw1-junit5-thart-hw1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hw2a-dafny-tutorial-thart-hw2a" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hw2b-specification-blackbox-thart-hw2b" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hw3-mcdc-typeproof-thart-hw3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/proj1-constant-propagation-thart-p1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/proj1-constant-propagation-thart-p1/DOMViewer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/proj1-constant-propagation-thart-p1/project-utils" vcs="Git" />
+  </component>
+</project>
